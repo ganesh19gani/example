@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <styles>
+ <style                                   >
+ <style>
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
