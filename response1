@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- <style                                   >
- <style>
+    <style>
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -33,7 +32,6 @@ tr:nth-child(even) {
 <h5><b>Sub: Request for Disbursement of Loan Facility sanctioned to me/us vide sanction letter dated ____________</b></h5>
 
 <p>Dear Sir/ Madam,</p>
-<p>Okay</p>
 
 <p>With reference to the loan facility sanctioned Loan amount Rs.___________ to my/us by SFPL, I/ We request you to
     kindly disburse the loan amount in following manner :</p>
